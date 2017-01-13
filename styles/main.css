@@ -1,0 +1,239 @@
+.col {
+	
+	min-height: 50px;
+	border: none;
+	float: left;	
+	box-sizing: border-box;
+	padding: 5px;
+	font-family: Geneva, Tahoma, Verdana, sans-serif;
+	font-size: 12px;
+	line-height: 20px;
+	text-transform: uppercase;
+	color: #444;
+
+	
+}
+
+.title-main {
+	font-family: times, Times New Roman, times-roman, georgia, serif;
+	font-size: 100px;
+	line-height: 75px;
+	letter-spacing: -1px;
+	color: #444;
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+    font-weight: 100;
+    text-transform: none;
+
+}
+
+.col-nav-sec {
+	width: 5%;
+	float: right;
+
+}
+
+.col-top-left {
+	width: 40%;
+	float: left;
+}
+
+.col-top-bar {
+	width: 50%;
+	text-align: center;
+	float: right;
+	
+}
+
+.clearfix:after {
+	content: "";
+	display: block;
+	clear: both;
+}
+
+
+.top-nav {
+	padding: 30px 5px 10px 5px;
+}
+
+h1 {
+	font-family: times, Times New Roman, times-roman, georgia, serif;
+	font-size: 50px;
+	line-height: 30px;
+	letter-spacing: -1px;
+	color: #444;
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+    font-weight: 100;
+    text-transform: none;
+}
+
+h2 {
+	font-family: times, Times New Roman, times-roman, georgia, serif;
+	font-size: 20px;
+	line-height: 15px;
+	letter-spacing: -1px;
+	color: #444;
+	font-style: italic;
+	text-transform: none;
+}
+
+h3{
+	font-family: times, Times New Roman, times-roman, georgia, serif;
+	font-size: 14px;
+	line-height: 5px;
+	margin: 0;
+	text-transform: uppercase;
+	color: #444;
+
+}
+
+.date {
+	text-align: center;
+}
+
+div {
+	display: block;
+
+}
+
+.buttons {
+width: 35px;
+
+}
+
+.row {
+	background-color: black;
+	color: white;
+	height: 35px;
+	border-bottom: 10px solid #DE7D9F;
+	padding-bottom: 11px;
+
+}
+
+.bottom-row {
+	background-color: black;
+	min-height: 50px;
+	margin-top: 10px;
+	border-top: 10px solid #DE7D9F;
+
+}
+
+.col-main-main {
+	width: 55.5555555%;
+	height: auto;
+	padding: 40px;
+	border-left: 1px solid lightgrey;
+	border-right: 1px double lightgrey;
+	margin-top: 10px;
+	text-align: justify;
+
+
+}
+
+.col-left-left {
+	width: 22.2222222%;
+	height: auto;
+	padding: 30px;
+}
+
+.col-right-right {
+	width: 22.2222222%;
+	height: auto;
+	padding: 30px;
+
+}
+
+
+.article {
+	min-height: 585px;
+	margin: 10px;
+}
+
+.cheese {
+	width: 100%;
+	height: 150px;
+}
+
+.gansta {
+	width: 60%;
+	height:550px;
+	float: right;
+	margin: 15px 0px 15px 15px;
+
+}
+
+.gangsta-two {
+	width: 75%;
+	height: 300px;
+	float: left;
+	margin-right: 30px;
+
+}
+
+.bacon {
+	width: 100%;
+	height: 100px;
+}
+
+.bacon-last {
+	width: 100%;
+	height: 125px;
+}
+
+blockquote {
+	text-align: center;
+	font-family: times, Times New Roman, times-roman, georgia, serif;
+	font-style: italic;
+	text-transform: none;
+	font-size: 18px;
+
+}
+
+.clearfix-second {
+	display: inline-block;
+
+}
+
+nav {
+	margin-top: 5px;
+	padding-top:5px;
+	list-style-type: none;
+	font-variant: small-caps;
+	font-size: 15px;
+	text-align: center;
+	font-family: centurygothic, sans-serif;
+
+
+}
+
+.nav li {
+    display: inline;
+    color: white;
+    text-align: center;
+    padding: 15px;
+
+    
+}
+
+.nav a {
+    display:inline-block;
+    padding:5px;
+    color: white;
+    text-decoration: overline;
+
+    
+}
+
+.li:visited {
+	color: lightgrey;
+}
+
+.nav a:hover {
+	color: #DE7D9F;
+}
+
+.media {
+	height:200px;
+	width: 100%;
+}
